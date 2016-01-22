@@ -1,0 +1,8 @@
+/db/instalytics_development
+/db/instalytics_test
+/public/assets*
+/tmp
+.env.test
+.env
+.env.development
+.open
